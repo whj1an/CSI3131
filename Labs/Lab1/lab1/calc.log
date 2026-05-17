@@ -1,0 +1,26 @@
+
+
+        Monitoring /proc/354/stat:
+
+Time        State           SysTm    UsrTm
+  0     Sleeping(memory)       0        0
+  1     Sleeping(memory)       0        0
+  2     Sleeping(memory)       0        0
+  3     Running                0        1
+  4     Sleeping(memory)       0       78
+  5     Sleeping(memory)       0       78
+  6     Sleeping(memory)       0       78
+  7     Running                0      101
+  8     Sleeping(memory)       0      156
+  9     Sleeping(memory)       0      156
+ 10     Sleeping(memory)       0      156
+ 11     Running                0      200
+ 12     Sleeping(memory)       0      232
+ 13     Sleeping(memory)       0      232
+ 14     Sleeping(memory)       0      232
+ 15     Running                0      300
+ 16     Sleeping(memory)       0      309
+ 17     Sleeping(memory)       0      309
+ 18     Sleeping(memory)       0      309
+ 19     Sleeping(memory)       0      385
+procmon: Cannot open /proc/354/stat, the monitored process is not running any more.

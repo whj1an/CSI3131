@@ -1,0 +1,26 @@
+
+
+        Monitoring /proc/359/stat:
+
+Time        State           SysTm    UsrTm
+  0     Running                0        0
+  1     Sleeping(memory)       0        0
+  2     Sleeping(memory)       0        0
+  3     Sleeping(memory)       0        0
+  4     Running               87       12
+  5     Running              171       28
+  6     Running              254       45
+  7     Sleeping(memory)     284       57
+  8     Sleeping(memory)     284       57
+  9     Sleeping(memory)     284       57
+ 10     Running              331       70
+ 11     Running              412       89
+ 12     Running              498      103
+ 13     Sleeping(memory)     567      117
+ 14     Sleeping(memory)     567      117
+ 15     Sleeping(memory)     567      117
+ 16     Running              582      118
+ 17     Running              673      128
+ 18     Running              760      140
+ 19     Running              842      159
+procmon: Cannot open /proc/359/stat, the monitored process is not running any more.
