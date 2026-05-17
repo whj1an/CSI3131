@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jacewang/Desktop/CSI3131/Labs/Lab1/lab1/output/mon'
+relocations:     []
+...
