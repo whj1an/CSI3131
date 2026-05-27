@@ -17,3 +17,6 @@
 - Ready
 - Terminated
 
+## Assignments
+
+### A1
