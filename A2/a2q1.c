@@ -23,6 +23,9 @@ void *print_primes(void *arg) {
     return NULL;
 }
 
+/*
+ * Main 主函数，首先判断Args
+ */
 int main(int argc, char *argv[]) {
     if (argc != 2) {
         printf("Usage: %s <number>\n", argv[0]);
