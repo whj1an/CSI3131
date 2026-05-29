@@ -1,3 +1,6 @@
+// Haojian Wang 300411829 Xinran Xie 300452622
+// Group 77 by CSI 3131
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>

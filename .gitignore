@@ -1,7 +1,16 @@
+# Text Editor
 .obsidian
+
+# IDEs
 **.idea
 **.DS_Store
 **.vscode
-**CMakeLists.txt
+
+# CMaker
 **cmake-build-debug
 **output
+cmake-build-*/
+output/
+
+# output files
+A2/a2q*
